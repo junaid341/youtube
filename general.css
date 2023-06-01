@@ -1,0 +1,20 @@
+p {
+  font-family: Roboto, arial;
+
+  margin-bottom: 0;}
+
+  .body{
+
+    /*this style shall be inherited*/
+    
+    font-family: Roboto, arial;
+    margin: 0;
+    padding-top: 100px;
+    padding-left: 80px;
+    background-color: rgb(248, 244, 244);    
+
+  }
+  
+  
+ 
+  
